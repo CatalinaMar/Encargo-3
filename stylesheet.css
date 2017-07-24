@@ -76,7 +76,7 @@ header{
 #imagenbanner{
 	width: 63%;
 	height: 530px;
-    background: url(bannerfinal.jpg) repeat-x left top;
+    background: url(image/bannerfinal.jpg) repeat-x left top;
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -167,7 +167,7 @@ ul{
 	 margin-top: 35px;
 }
 #photo1	{
-	    background: url(muestraone.jpg) repeat-x left top;
+	    background: url(image/muestraone.jpg) repeat-x left top;
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -175,7 +175,7 @@ ul{
 
   }
  #photo2 {
-       background: url(muestratwo.jpg) repeat-x left top;
+       background: url(image/muestratwo.jpg) repeat-x left top;
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -183,7 +183,7 @@ ul{
  } 
 
  #photo3 {
-       background: url(muestrathree.jpg) repeat-x left top;
+       background: url(image/muestrathree.jpg) repeat-x left top;
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -191,7 +191,7 @@ ul{
  }
 
   #photo4 {
-        background: url(muestrafour.jpg) repeat-x left top;
+        background: url(image/muestrafour.jpg) repeat-x left top;
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -217,7 +217,7 @@ h4 {
 
 #bannerfooter{
 	margin-top: 35px;
-       background: url(bannerultimo.jpg) repeat-x left top;
+       background: url(image/bannerultimo.jpg) repeat-x left top;
   -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
