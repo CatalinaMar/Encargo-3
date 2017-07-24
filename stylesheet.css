@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700|Roboto:300,400,700');
+
+body{
+	background-color: #EEF1F0;
+	margin-right: 0px;
+	margin-left: 0px;	
+}
+.page-wrapper {
+	margin-right: 0px;
+	margin-left: 0px;
+	width: 40%;
+    font-family:'Roboto', sans-serif;
+    font-size: 18px;
+    color: #141318;
+
+}
+
+.page-wrapper p{
+    line-height: 1.7;	
+}
+
+h3 {
+	font-family: 'Crimson Text', serif;
+	font-size: 40px;
+	color: #CF444A;
+}
+#zen-intro{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+    text-align: right;
+}
+
+a{
+	text-decoration: none;
+	color: #CF444A;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+#tituloa{
+	font-family: 'Crimson Text', serif;
+	font-size: 100px;
+	margin-bottom: -5px;
+    color: #CF444A;
+    margin-top: 85px;
+}
+
+#titulob{
+  font-family: 'Crimson Text', serif;
+   font-weight: bold;
+   font-size: 95px;
+   margin-top: -5px;
+   margin-bottom: 3%;
+   color: #17133A;
+}
+
+h2{
+    font-family: 'Crimson Text', serif;
+	font-style:italic;
+	font-size: 60px;
+    margin-top: 0px;
+    color: #141318;
+}
+header{
+	margin-top: 6%;
+	width: 50%;
+	padding-right: 3%;
+}
+
+.zen-summary{
+	width: 20%;	
+}
+
+#imagenbanner{
+	width: 63%;
+	height: 530px;
+    background: url(bannerfinal.jpg) repeat-x left top;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   float: right;
+}
+
+#zen-summary{
+    margin-left: 3%;
+    margin-right: 3%;
+    display: flex;
+    flex-direction: row;
+}
+
+#resumen{
+	width: 44%;
+    font-family: 'Crimson Text', serif;
+	font-size: 24px;
+	text-align: right;
+	padding-right: 3%;
+	line-height: 1.2;
+	color: #101125;
+	opacity: 0.8;
+	padding-top: 0%;
+}
+
+#menu{
+	padding-left: 0%;
+	width: 46%;
+	padding-top: 0%;
+}
+#menu a{
+    font-family: 'Crimson Text', serif;
+	font-size: 27px;
+	margin-right: 9%;
+	margin-left: 0%;
+	font-weight: bold; 
+	padding-top: 0%;
+}
+
+#todo {
+	display: flex;
+    flex-direction: row;
+    margin-top:  3%;	
+}
+
+#colum1 {
+	width: 47%;
+	margin-left: 0%;
+}
+
+#listas{
+	margin-left: 15%;
+	display: flex;
+    flex-direction: row;
+    text-align: right;
+    justify-content: flex-end;
+    padding-right: 6%;
+
+}
+
+#listauno {
+    width: 31%;	
+    color: #141318;
+
+}
+
+#listados {
+	width: 31%;
+	margin-left: 8%;
+    color: #141318;	
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+    padding: 0;
+    font-family:'Roboto', sans-serif;
+    font-size: 19px;
+}
+
+#photos{
+	width: 62%;
+    margin-top: 620px;
+}
+.photo{
+	 height: 350px;
+	 margin-top: 35px;
+}
+#photo1	{
+	    background: url(muestraone.jpg) repeat-x left top;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+
+  }
+ #photo2 {
+       background: url(muestratwo.jpg) repeat-x left top;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ } 
+
+ #photo3 {
+       background: url(muestrathree.jpg) repeat-x left top;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ }
+
+  #photo4 {
+        background: url(muestrafour.jpg) repeat-x left top;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+	
+ }
+
+ #design-archives{
+  margin-top: 75px;
+ }
+
+#design-archives ul {
+    font-family: 'Crimson Text', serif;
+	font-size: 23px;	
+}
+
+h4 {
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+	padding-top: 4%;
+	color: #17133A;
+}
+
+#bannerfooter{
+	margin-top: 35px;
+       background: url(bannerultimo.jpg) repeat-x left top;
+  -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   width: 100%;
+   height: 387px;
+
+}
+
+footer {
+	text-align: center;
+}
